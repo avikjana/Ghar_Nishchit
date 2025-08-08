@@ -96,7 +96,8 @@ import {
   RotateCcw, 
   PlayCircle, 
   PauseCircle, 
-  StopCircle
+  StopCircle,
+  ArrowRight
 } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
 
